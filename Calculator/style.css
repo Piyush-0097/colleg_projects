@@ -1,0 +1,49 @@
+body {background-color: gray;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h2 {
+    color: white;
+}
+
+form {
+    margin: 20px 0;
+}
+
+input, select, button {
+    background-color: ;
+    padding: 8px;
+    margin: 5px;
+}
+
+button {
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+p {
+    color: #333;
+}
+.container{
+    text-align: center;
+    margin: auto;
+    background-color: lightgoldenrodyellow;
+    width: 300px;
+    height: 100px;
+}
+#result{
+    text-align: center;
+    border-radius: 30%;
+    margin: auto;
+    background-color: lightgoldenrodyellow;
+    width: 200px;
+    height: 100px;
+}
